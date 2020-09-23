@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is XIN, I am a designer who likes to combine design thinking with code
+Check my works at [my portfolio](htpps://www.xinhudesign.com)
+
 <!--
 **mistyhx/mistyhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
